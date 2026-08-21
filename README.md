@@ -36,7 +36,9 @@ I am an aspiring Security Operations Center (SOC) Analyst passionate about threa
 
 
 
-![After - VNC Fixed](screenshots/vnc-after.png)
+![After - VNC Fixed](<img width="1219" height="655" alt="image" src="https://github.com/user-attachments/assets/6849b081-fe41-46a2-b49c-080f71c2abd4" />
+)
+as you see from the above image there is no vncserver vulnerabilities
 
 **Lesson Learned:** Default credentials are a massive security risk. Always disable unnecessary services.
 
