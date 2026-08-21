@@ -31,8 +31,10 @@ I am an aspiring Security Operations Center (SOC) Analyst passionate about threa
 - **High:** vsftpd anonymous login enabled – **Remediated**
 
 **Screenshots:**
-![Before its fixe
-<img width="1190" height="780" alt="image" src="https://github.com/user-attachments/assets/53ccbd1e-d379-456d-bd6b-73a29cad7eab" />
+![Before VNC fixed
+<img width="1258" height="805" alt="image" src="https://github.com/user-attachments/assets/aaab4692-d9d4-4da0-b3cf-e8cfe5310273" />
+
+
 
 ![After - VNC Fixed](screenshots/vnc-after.png)
 
